@@ -122,7 +122,7 @@ The LLM is instructed to return **strict JSON** with the following shape:
   "recommendation": ""
 }
 ```
-
+ 
 ---
 
 ## Tech Stack
