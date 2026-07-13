@@ -102,8 +102,8 @@ Then open **http://localhost:8501**, paste an Amazon product URL, and click
 ## Screenshots
 
 ```
-![Product](assets/screen1.png)
-![Analysis](assets/screen2.png)
+![Product](Screenshots/screen1.png)
+![Analysis](Screenshots/screen2.png)
 
 ```
 
