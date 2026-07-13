@@ -126,7 +126,7 @@ The LLM is instructed to return **strict JSON** with the following shape:
 ---
  
 ## Tech Stack
-
+ 
 - **Python**
 - **Streamlit** — dashboard UI
 - **requests / BeautifulSoup4** — static HTML scraping
