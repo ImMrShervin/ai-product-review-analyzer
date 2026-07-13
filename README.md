@@ -52,7 +52,7 @@ Built with **Python + Streamlit + Groq LLM**.
 
 ```bash
 # 1. Clone
-git clone <your-repo-url> ai-product-review-analyzer
+git clone https://github.com/ImMrShervin/ai-product-review-analyzer.git ai-product-review-analyzer
 cd ai-product-review-analyzer
 
 # 2. (Recommended) create a virtual environment
