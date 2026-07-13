@@ -124,7 +124,7 @@ The LLM is instructed to return **strict JSON** with the following shape:
 ```
  
 ---
-
+ 
 ## Tech Stack
 
 - **Python**
