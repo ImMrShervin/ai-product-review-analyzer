@@ -47,7 +47,7 @@ Built with **Python + Streamlit + Groq LLM**.
 | `app.py`         | Streamlit UI, orchestration, error surfaces                 |
 
 ---
- 
+
 ## Installation
 
 ```bash
